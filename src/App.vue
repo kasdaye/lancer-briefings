@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "DATA STREAM",
           "alias": "Lailah Reeds",
-          "code": "1c8b1473-7501-4c50-b7e0-e1299889a2d8//UNS-CV-RIO-GRANDE//INDIGO-LANCE",
+          "code": "Reeds.Lailah:1c8b1473-7501-4c50-b7e0-e1299889a2d8//NDL-C-STOLEN-SEA",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "There Is No God"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "WITCH",
           "alias": "Alyse Dowling",
-          "code": "6988b28f-6ff6-4fe1-84d8-18e29b240239//UNS-CV-RIO-GRANDE//INDIGO-LANCE",
+          "code": "Dowling.Alyse:6988b28f-6ff6-4fe1-84d8-18e29b240239//NDL-C-SACRED-STAR",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Ex-Plowshare"
