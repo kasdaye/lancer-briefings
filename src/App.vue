@@ -103,26 +103,26 @@ export default {
         {
           "callsign": "FOXLOVER",
           "alias": "Lynette ",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96//UNS-CV-RIO-GRANDE//INDIGO-LANCE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Atlas"
         },
         {
-          "callsign": "Data Stream",
+          "callsign": "DATA STREAM",
           "alias": "Lailah Reeds",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "1c8b1473-7501-4c50-b7e0-e1299889a2d8//UNS-CV-RIO-GRANDE//INDIGO-LANCE",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "There Is No God"
         },
         {
-          "callsign": "Nevalia",
-          "alias": "Amara",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "WITCH",
+          "alias": "Alyse Dowling",
+          "code": "6988b28f-6ff6-4fe1-84d8-18e29b240239//UNS-CV-RIO-GRANDE//INDIGO-LANCE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Ex-Plowshare"
         }
       ],
       "header": {
