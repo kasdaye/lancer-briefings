@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "FOXLOVER",
           "alias": "Lynette ",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96//UNS-CV-RIO-GRANDE//INDIGO-LANCE",
+          "code": "Lynette:2e27b822-0599-47c2-88b6-a74885379002//NDL-C-DEEP-ASH",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Atlas"
