@@ -134,7 +134,7 @@ export default {
         "headerTitle": "Union",
         "headerSubtitle": "Intelligence Bureau",
         "subheaderTitle": "Indigo Lance",
-        "subheaderSubtitle": "Delta-Rho-Green-Zulu",
+        "subheaderSubtitle": "Delta-Rho-Green-Ultra",
       },
       "options":{
         "eventsMarkdownPerMission": true
